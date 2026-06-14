@@ -1,0 +1,62 @@
+[
+  {
+    "_id": "6759a1b2c3d4e5f6a7b8c9d0",
+    "title": "Set up project repository",
+    "description": "Initialize GitHub repo and configure CI/CD pipeline",
+    "status": "completed",
+    "priority": "high",
+    "dueDate": "2024-12-10T00:00:00.000Z",
+    "user": "6759a0001234567890abcdef",
+    "createdAt": "2024-12-01T10:00:00.000Z",
+    "updatedAt": "2024-12-10T15:30:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "6759a1b2c3d4e5f6a7b8c9d1",
+    "title": "Build REST API endpoints",
+    "description": "Create CRUD endpoints for task management with JWT auth",
+    "status": "completed",
+    "priority": "high",
+    "dueDate": "2024-12-15T00:00:00.000Z",
+    "user": "6759a0001234567890abcdef",
+    "createdAt": "2024-12-05T09:00:00.000Z",
+    "updatedAt": "2024-12-15T17:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "6759a1b2c3d4e5f6a7b8c9d2",
+    "title": "Design React frontend",
+    "description": "Build responsive UI with task list, filters, and modals",
+    "status": "pending",
+    "priority": "medium",
+    "dueDate": "2024-12-20T00:00:00.000Z",
+    "user": "6759a0001234567890abcdef",
+    "createdAt": "2024-12-08T11:00:00.000Z",
+    "updatedAt": "2024-12-08T11:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "6759a1b2c3d4e5f6a7b8c9d3",
+    "title": "Write unit tests",
+    "description": "Add test coverage for all API endpoints",
+    "status": "pending",
+    "priority": "low",
+    "dueDate": null,
+    "user": "6759a0001234567890abcdef",
+    "createdAt": "2024-12-09T14:00:00.000Z",
+    "updatedAt": "2024-12-09T14:00:00.000Z",
+    "__v": 0
+  },
+  {
+    "_id": "6759a1b2c3d4e5f6a7b8c9d4",
+    "title": "Deploy to production",
+    "description": "Deploy backend to Railway and frontend to Vercel",
+    "status": "pending",
+    "priority": "high",
+    "dueDate": "2024-12-25T00:00:00.000Z",
+    "user": "6759a0001234567890abcdef",
+    "createdAt": "2024-12-10T08:00:00.000Z",
+    "updatedAt": "2024-12-10T08:00:00.000Z",
+    "__v": 0
+  }
+]

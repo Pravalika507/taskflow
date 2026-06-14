@@ -1,0 +1,12 @@
+{
+  "name": "task-management-root",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "concurrently --kill-others-on-fail --prefix \"[{name}]\" --names \"BACKEND,FRONTEND\" --prefix-colors \"blue,green\" \"pnpm --filter backend dev\" \"pnpm --filter frontend dev\"",
+    "install:all": "pnpm install"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
